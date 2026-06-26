@@ -1,0 +1,15 @@
+# NetBeans project files (private/generated)
+nbproject/private/
+nbproject/build-impl.xml
+nbproject/genfiles.properties
+
+# Build output
+build/
+dist/*.jar
+
+# NetBeans cache
+.nb-gradle/
+
+# OS files
+.DS_Store
+Thumbs.db
